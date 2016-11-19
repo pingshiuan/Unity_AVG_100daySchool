@@ -94,6 +94,7 @@
      <Compile Include="Assets\Fungus\Thirdparty\Usfxr\Editor\SfxrGenerator.cs" />
      <None Include="Assets\Fungus\Thirdparty\FungusLua\Thirdparty\JSON\readme.txt" />
      <None Include="Assets\FungusExamples\FungusLua\Localization\stringtable.txt" />
+     <None Include="Assets\data\lines\Lines.txt" />
      <None Include="Assets\Fungus\Docs\README.txt" />
      <None Include="Assets\Fungus\Resources\GLLineDraw.shader" />
      <None Include="Assets\Fungus\Thirdparty\LeanTween\ReadMe.txt" />
